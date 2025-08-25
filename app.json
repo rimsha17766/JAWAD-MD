@@ -1,7 +1,7 @@
 {
   "name": "JAWAD-MD",
   "version": "3.0.0",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "description": "Javascript WhatsApp bot made by FTGM",
   "website": "https://files.catbox.moe/neni8p.jpg",
   "logo": "https://files.catbox.moe/neni8p.jpg",
   "keywords": ["jawad-md", "JAWAD XMD","jawad xmd","JAWAD-MD"],
@@ -124,7 +124,7 @@
     "ANTICALL_MSG": {
       "description": "Put Your own Anticall Message the bot will send after rejecting calls",
       "required": false,
-      "value": "*_📞 Auto Call Reject Mode Activated by JAWAD-MD. 📵 No Calls Allowed!_*"
+      "value": "*_📞 FTGM is Very Busy. 📵 No Calls Allowed!_*"
     },
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
